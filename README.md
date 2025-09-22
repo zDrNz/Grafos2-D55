@@ -21,6 +21,9 @@ propostas pelo professor em sala de aula.
 |Exercício | Resolução | Dificuldade |
 | -- | -- | -- |
 [847-ShortestPathVisitingAllNodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) | [ShortestPathVisitingAllNodes.py](https://github.com/projeto-de-algoritmos-2025/Grafos1-D55/tree/main/ShortestPathVisitingAllNodes.py) | Difícil |
+| [MaxProbability](https://leetcode.com/problems/path-with-maximum-probability/) | [MaximumProbability.py](https://github.com/projeto-de-algoritmos-2025/Grafos2-D55/tree/main/MaximumProbability.py) |Média |
+| [SwimWater](https://leetcode.com/problems/swim-in-rising-water/description/) | [SwimWater.py](https://github.com/projeto-de-algoritmos-2025/Grafos2-D55/tree/main/SwimWater.py) |Difícil |
+
 
 ## Vídeo
 |Vídeo de explicação|
@@ -37,6 +40,16 @@ propostas pelo professor em sala de aula.
 </div>
 <div align="center">
 	<img src="assets/ShortestPathVisitingAllNodes3.png" alt="Shortest Path Visiting All Nodes" width="400"/>
+</div>
+
+- *MaxProbability*
+<div align="center">
+    <img src="assets/maxProbability.png" alt="Max Probability" width="400"/>
+</div>
+
+- *SwimWater*
+<div align="center">
+    <img src="assets/swimWater.png" alt="Swim Water" width="400"/>
 </div>
 
 ## Instalação 
