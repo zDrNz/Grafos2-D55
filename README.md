@@ -28,6 +28,8 @@ propostas pelo professor em sala de aula.
 ## Vídeo
 |Vídeo de explicação|
 |--|
+| [Clique aqui](https://youtu.be/z4eV3gtIdw8) |
+
 
 
 ## Screenshots
